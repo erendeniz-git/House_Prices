@@ -12,4 +12,6 @@ House_Prices_v1.0.ipynb contains the codes which mentioned in the article.
 
 Power of Outliers
 ---------------------------------------------------------------------------------
+https://medium.com/@erendeniz_41985/the-power-of-outliers-58c5715d130a
+
 House_Prices_v2.0.ipynb contains the codes which mentioned in the article.
