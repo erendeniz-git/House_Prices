@@ -15,3 +15,9 @@ The Power of Outliers
 https://medium.com/@erendeniz_41985/the-power-of-outliers-58c5715d130a
 
 House_Prices_v2.0.ipynb contains the codes which mentioned in the article.
+
+How to Find The Best Regression Method?
+---------------------------------------------------------------------------------
+https://medium.com/@erendeniz_41985/how-to-find-the-best-regression-method-a8ca7a6e2fea
+
+House_Prices_v3.0.ipynb contains the codes which mentioned in the article.
